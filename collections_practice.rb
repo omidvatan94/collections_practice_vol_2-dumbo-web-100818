@@ -48,7 +48,7 @@ def remove_non_strings(array)
 return output
 end
 
-def count_elements(array)
+
   
 
   
